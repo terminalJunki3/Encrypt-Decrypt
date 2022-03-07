@@ -65,6 +65,7 @@ Banner
 
 }
 
+
 elseif ($action -eq "Decrypt"){
 
     Write-Host 'Decrypt'
