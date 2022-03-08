@@ -56,7 +56,6 @@ Function Banner{
 }
 
 
- 
 if ($action -eq "Encrypt"){
 Write-Host 'encrypt'
 
